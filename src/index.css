@@ -1,0 +1,39 @@
+body {
+  display: flex;
+  justify-content: right;
+  align-items: center;
+  min-height: 100vh;
+  background-image: url(Admin-01.svg); 
+  background-position: center center, center center;
+  background-size: cover, cover;
+  background-repeat: no-repeat, no-repeat;
+  margin: 0;
+}
+
+
+.app-container {
+    display: flex;
+    align-items: center; 
+    height: 435px; 
+    width: 366px;
+    margin: 10px auto; 
+    padding: 10px; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+    position: relative; 
+    top: 20px; 
+    left: -100px; 
+    border-radius: 15px; 
+    background-color: white;
+    margin-right: 0px;
+    margin-bottom: 100px;
+  }
+
+  .logo {
+    margin-right: 1200px;
+    margin-bottom: -100px;
+    display: inline-block;
+    font-family: "Radio Canada Big", sans-serif;
+  }
+  
+
+

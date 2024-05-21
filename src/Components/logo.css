@@ -1,0 +1,12 @@
+.logoText {
+    display: inline-block;
+    position: relative;
+    left: 45px;
+}
+
+.image {
+    display: inline-block;
+    position: relative;
+    top: 20px;
+    left: 30px;
+}
